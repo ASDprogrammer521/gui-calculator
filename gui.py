@@ -1,6 +1,6 @@
 from tkinter import *
 from unittest import result
-
+from math import *
 
 def buttonClick(number):
     global operator
